@@ -1,0 +1,20 @@
+{
+  "name": "smz-recipe",
+  "version": "1.1.2",
+  "description": "A CLI based recipe book where you find easy recipes.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18",
+    "smz-recipe": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
